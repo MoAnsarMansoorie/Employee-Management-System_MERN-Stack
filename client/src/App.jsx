@@ -5,7 +5,7 @@ function App() {
 
   return (
     <>
-      
+      <h1>Employee Management System</h1>
     </>
   )
 }
